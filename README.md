@@ -1,2 +1,7 @@
 # gomibako
-gomibako-do
+[ja]
+ゴミ箱です
+
+[en]
+This is trash can
+
