@@ -15,7 +15,7 @@ int main(){
   printf("台形公式を行います\n積分区間は何等分しますか？\n");
   scanf("%d", &n);
 
-  delta = (double) 3 / n;  //デルタの計算
+  delta = (double) 4 / n;  //デルタの計算
 
   for(i = 0, a = 0; a <= n; i = i + delta, a++){  //関数に数字を一つずついれ結果をｙに入れる
     y[a] = f(i);
